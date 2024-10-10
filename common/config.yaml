@@ -1,0 +1,7 @@
+database_info_cbdss:
+  host: "10.249.0.15"
+  port: 6337
+  user: "dmlopr"
+  passwd: "OLLe5XXMgFA3"
+  database: "cbdss_cic"
+  charset: "utf8"

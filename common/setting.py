@@ -14,3 +14,6 @@ def get_case_path():
 def get_log_path():
     return root_path() + '\data\\app.log'
 
+
+def get_databaseinfo_path():
+    return root_path() + '\common\config.yaml'
