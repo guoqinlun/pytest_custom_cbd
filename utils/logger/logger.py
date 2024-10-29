@@ -1,6 +1,5 @@
 import logging
 
-
 class Logger:
     def __init__(self, log_file='app.log', log_level=logging.INFO, name='root'):
         self.log_file = log_file

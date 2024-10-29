@@ -11,13 +11,6 @@ class MysqlHelper(object):
     conn_params = data['database_info_cbdss']
     print(conn_params)
     print(type(conn_params))
-    # conn_params = {
-    #     'host': 'localhost',
-    #     'port': 3306,
-    #     'user': 'root',
-    #     'mm': 'root',
-    #     'db': 'ceshi_platform',
-    #     'charset': 'utf8'}
     print(conn_params['host'])
     # 类的构造函数，主要用于类的初始化
     def __init__(self):
