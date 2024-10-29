@@ -54,4 +54,5 @@ def test_sql():
 import os
 import subprocess
 
-
+def aaa():
+    a = 1
